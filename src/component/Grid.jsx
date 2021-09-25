@@ -1,5 +1,6 @@
 import { Component } from "react";
 import '../style/style.css';
+
 import $ from 'jquery';
 window.jQuery = $;
 window.$ = $;

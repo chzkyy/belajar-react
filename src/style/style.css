@@ -1,5 +1,5 @@
 .App {
-  background-color: #282c34;
+  background-color: #2a3d66;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -14,6 +14,7 @@
   height: 80vh;
   margin: 10vh auto;
   border-radius: 30px;
+  z-index: 99;
 }
 
 .jam {
@@ -27,6 +28,6 @@
 }
 
 .refr{
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 800;
 }
