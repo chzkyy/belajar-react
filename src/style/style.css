@@ -1,0 +1,32 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.container {
+  background-color: #61dafb;
+  height: 80vh;
+  margin: 10vh auto;
+  border-radius: 30px;
+}
+
+.jam {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #282c34;
+}
+
+.refr{
+  font-size: 14px;
+  font-weight: 800;
+}
